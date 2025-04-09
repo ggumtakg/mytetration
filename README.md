@@ -9,7 +9,7 @@
   - 우클릭 : 클릭한 좌표에서 zoom_factor만큼 축소합니다.
      
 - tetration.py
-  - cpu를 통해 계산합니다. 실행이 오래걸리지만 float128자료형을 사용해서 더 자세한 확대를 할 수 있습니다.
+  - cpu를 통해 계산합니다. 실행이 오래걸립니다.
   
 - tetration_gpu.py
   - numba를 통해 gpu로 계산합니다.
